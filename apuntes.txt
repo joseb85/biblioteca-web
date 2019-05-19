@@ -3,3 +3,31 @@
     npm install bootstrap
   2. Añadir importación en styles
     @import "~bootstrap/dist/css/bootstrap.css";
+
+- Instalación de primeng:
+  1. Ejecutar comandos:
+    npm install primeng --save
+    npm install primeicons --save
+    npm install @angular/animations --save
+  2. Importar BrowserAnimationsModule a shared-common.module
+    import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+  3. Añadir los estilos en angular.js
+    "styles": [
+      "src/styles.scss",
+      "node_modules/primeicons/primeicons.css",
+      "node_modules/primeng/resources/themes/nova-light/theme.css",
+      "node_modules/primeng/resources/primeng.min.css"
+    ]
+  4. Añadir en shared-libs.module (imports y exports) los componentes de primeng a utilizar
+
+- Instalación de translate:
+  1. Ejecutar comando:
+    npm install @ngx-translate/core @ngx-translate/http-loader --save
+  2. Importar en app.module (mirar en manual de ngx-translate)
+
+- Instalación de lodash
+  1. Ejecutar comandos:
+    npm install --save lodash
+    npm install --save-dev @types/lodash
+  2. Importar
+    import * as _ from 'lodash';

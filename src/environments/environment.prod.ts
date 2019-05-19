@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  server_api_url: "http://localhost:8089/biblioteca-server/"
 };

@@ -1,0 +1,75 @@
+{
+    "COMUN": {
+        "biblioteca": "Biblioteca",
+        "aceptar": "Aceptar",
+        "anterior": "Anterior",
+        "cancelar": "Cancelar",
+        "limpiar": "Limpiar",
+        "desde": "Desde",
+        "hasta": "Hasta",
+        "titulo": "Título",
+        "autor": "Autor",
+        "autores": "Autores",
+        "coleccion": "Colección",
+        "colecciones": "Colecciones",
+        "libro": "Libro",
+        "libros": "Libros",
+        "lectura": "Lectura",
+        "lecturas": "Lecturas",
+        "genero": "Género",
+        "generos": "Géneros",
+        "tag": "Tag",
+        "tags": "Tags",
+        "pais": "País",
+        "paises": "Países",
+        "continente": "Continente",
+        "continentes": "Continentes",
+        "agno": "Año",
+        "paginas": "Páginas",
+        "sexo": "Sexo",
+        "hombre": "Hombre",
+        "mujer": "Mujer"
+    },
+    "LOGIN": {
+        "title": "Biblioteca - Login",
+        "usuario": "Usuario",
+        "password": "Contraseña"
+    },
+    "HOME": {
+        "title": "Biblioteca - Home"
+    },
+    "LIBROS": {
+        "BIBLIOTECA": {
+            "title": "Biblioteca - Catálogo",
+            "filtro_avanzado": "Filtro avanzado",
+            "todos": "--- TODOS ---",
+            "desconocido": "Desconocido"
+        },
+        "FICHA": {
+            "title": "Biblioteca - Ficha"
+        }
+    },
+    "LECTURAS": {
+        "ENCURSO": {
+            "title": "Biblioteca - Lecturas en curso",
+            "titulo": "Título",
+            "pagina": "Página",
+            "efectivo": "Efectivo",
+            "faltan": "Faltan",
+            "total": "Total",
+            "porcEfectivo": "Efectivo %",
+            "porcTotal": "Total %",
+            "acciones": "Acciones",
+            "radio1": "Todos",
+            "radio2": "Pares",
+            "radio5": "De 5 en 5",
+            "radio10": "De 10 en 10",
+            "radio20": "Quintos",
+            "radio25": "Cuartos",
+            "radio33": "Tercios",
+            "WARNINGS": {
+                "eliminar": "¿Está seguro de que desea eliminar esta lectura?"
+            }
+        }
+    }
+}
