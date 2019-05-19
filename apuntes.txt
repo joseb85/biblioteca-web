@@ -1,0 +1,5 @@
+- Instalación de bootstrap:
+  1. Ejecutar comando:
+    npm install bootstrap
+  2. Añadir importación en styles
+    @import "~bootstrap/dist/css/bootstrap.css";
